@@ -2,7 +2,7 @@
 
 Cetak form cuti untuk karyawan ITB STIKOM Bali. Bukan aplikasi resmi dari SDM ITB STIKOM Bali, gunakan dengan bijak. Belum mendukung perhitungan jumlah hari jika cuti melewati hari raya, mohon di revisi manual. Edit di pdf atau coret manual lah..
 
-Aplikasi bisa diakses [di sini](https://angsagd.github.io/FormCuti)
+Aplikasi bisa diakses [di sini](https://angsagd.github.io/FormCuti).
 
 ## Tools & Libs
 
