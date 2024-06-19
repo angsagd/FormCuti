@@ -319,6 +319,16 @@
 .rata-tengah {
   text-align: center;
 }
+.tidak-perlu {
+  text-decoration: line-through;
+}
+.x19 {
+  left:5px;
+}
+.x20{
+  left:99px;
+}
+
 @media print {
   .selat {
     margin: 0 26px;
@@ -344,5 +354,11 @@
   }
   .isian-teratas {
     width: 3360px;
-  }  
+  }
+  .x19 > span {
+    right: 160px;
+  }
+  .x20 {
+    left: 96pt;
+  }
 }
