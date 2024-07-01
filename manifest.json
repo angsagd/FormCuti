@@ -1,0 +1,48 @@
+{
+"name": "Pengajuan Cuti ITB STIKOM Bali",
+"short_name": "Form Cuti",
+"start_url": "https://angsagd.github.io/FormCuti/",
+"display": "standalone",
+"description": "Cetak form cuti untuk karyawan ITB STIKOM Bali. Bukan aplikasi resmi dari SDM ITB STIKOM Bali, gunakan dengan bijak.",
+"lang": "id",
+"dir": "auto",
+"theme_color": "#ffffff",
+"background_color": "#ffffff",
+"orientation": "portrait",
+"icons": [
+  {
+    "src": "https://angsagd.github.io/FormCuti/img/512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  },
+  {
+    "src": "https://angsagd.github.io/FormCuti/img/192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any"
+  }
+],
+"screenshots": [
+  {
+    "src": "https://angsagd.github.io/FormCuti/img/screenshots.jpg",
+    "sizes": "1080x2400",
+    "type": "image/jpeg",
+    "description": "A screenshot of the Form Cuti home page"
+  }
+],
+"related_applications": [
+  {
+    "platform":"windows",
+    "url": "https://angsagd.github.io/FormCuti"
+  }
+],
+"prefer_related_applications": false,
+"shortcuts": [
+  {
+    "name":"Form Cuti",
+    "url":"/index.html",
+    "description":"Cetak form cuti untuk karyawan ITB STIKOM Bali"
+  }
+]
+}
